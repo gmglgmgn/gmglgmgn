@@ -12,6 +12,7 @@
 #### 활동
 
 - [GDSC Hongik](https://github.com/GDSC-Hongik) 일반 멤버 (2024.03 ~ now)
+- [ICPC SinChon](https://github.com/icpc-sinchon) Summer Algorithm Camp Novice 참여 (2024.07~2024.08)
 
 #### 프로젝트
 
