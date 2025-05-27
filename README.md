@@ -11,7 +11,7 @@
 
 #### 활동
 
-- [GDSC Hongik](https://github.com/GDSC-Hongik) 일반 멤버 (2024.03 ~ now)
+- [GDG Hongik](https://www.gdschongik.com/) 일반 멤버 (2024.03 ~ now)
     - GDSC 개발 입문 스터디 참여 (2024 Spring) (https://github.com/gmglgmgn/2024-1-Beginner-Study)
 - [ICPC Sinchon](https://github.com/icpc-sinchon) Summer Algorithm Camp Novice 참여 (2024.07~2024.08)
 - [홍익전공마스터] 우수팀 수료 (2024.09~2024.12)
